@@ -1,7 +1,6 @@
 {
   "name": "web-server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +13,14 @@
     "hbs": "^4.0.4",
     "nbs": "^3.1.1",
     "request": "^2.88.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shruti-g/weather-report.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shruti-g/weather-report/issues"
+  },
+  "homepage": "https://github.com/shruti-g/weather-report#readme",
+  "description": ""
 }
